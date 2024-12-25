@@ -12,17 +12,14 @@ A simple command-line Hangman game implemented in Python. Players must guess the
 ## How to Play
 
 1. Clone this repository to your local machine.
-2. Run the `hangman_game.py` file in a Python environment:
-   ```bash
-   python hangman_game.py
-   ```
+2. Run the `https://github.com/Rezwan45/Hangman.git` file in a Python environment
 3. Follow the on-screen prompts to guess letters of the hidden word.
 4. Guess correctly before running out of lives to win the game!
 
 
 ## File Structure
 
-- `hangman_game.py`: The main game script.
+- `https://github.com/Rezwan45/Hangman.git`: The main game script.
 
 ## Example Gameplay
 
